@@ -1,0 +1,15 @@
+D:\Epam\CarPark.Epam\CarPark\CarPark\bin\Debug\net6.0\CarPark.exe
+D:\Epam\CarPark.Epam\CarPark\CarPark\bin\Debug\net6.0\CarPark.deps.json
+D:\Epam\CarPark.Epam\CarPark\CarPark\bin\Debug\net6.0\CarPark.runtimeconfig.json
+D:\Epam\CarPark.Epam\CarPark\CarPark\bin\Debug\net6.0\CarPark.dll
+D:\Epam\CarPark.Epam\CarPark\CarPark\bin\Debug\net6.0\CarPark.pdb
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.csproj.AssemblyReference.cache
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.GeneratedMSBuildEditorConfig.editorconfig
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.AssemblyInfoInputs.cache
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.AssemblyInfo.cs
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.csproj.CoreCompileInputs.cache
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.dll
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\refint\CarPark.dll
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.pdb
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\CarPark.genruntimeconfig.cache
+D:\Epam\CarPark.Epam\CarPark\CarPark\obj\Debug\net6.0\ref\CarPark.dll
